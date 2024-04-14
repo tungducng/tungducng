@@ -69,9 +69,7 @@ Languages and Tools🦀:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnguyenductung&langs_count=6&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/iamnguyenductung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnguyenductung&theme=tokyonight" />
-</a>
+
 
 <br/>
 <br/>
