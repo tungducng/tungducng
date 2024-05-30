@@ -7,7 +7,7 @@ I am interested in learning Programing Language, Web Framework and Japanese.
 
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with  Webs.
-- 💬 Ask me about Backend and JavaScript.
+- 💬 Ask me about Backend - Java and JavaScript.
 - 😄 Pronouns: Nguyễn Đức Tùng
 - ⚡ Add: I love Japanese - 日本語. and passed N3.🦀
 
