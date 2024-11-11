@@ -3,7 +3,8 @@
 I am Backend Developer student<br/>
 I am interested in learning Programing Language, Web Framework and Japanese.
 
-<img align="right" alt="GIF" src="https://github.com/iamnguyenductung/iamnguyenductung/blob/master/img/aboutme.png" width="400" height="400" />
+<!--<img align="right" alt="GIF" src="https://github.com/iamnguyenductung/iamnguyenductung/blob/master/img/aboutme.png" width="400" height="400" />
+-->
 
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with  Webs.
